@@ -32,3 +32,4 @@ _testmain.go
 /cnispawn
 /kube-spawn
 /kube-spawn-runc
+results/
